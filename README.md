@@ -12,7 +12,7 @@
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" />
 </div>
 
 <div style="display: inline_block"><br>
