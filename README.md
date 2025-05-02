@@ -11,7 +11,7 @@
 <h2 align="center">STATUS</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" />
 </div>
 
