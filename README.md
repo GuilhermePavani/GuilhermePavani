@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;+me+chamo+Guilherme+Pavani!;" />
+</h1>
 
-<!--
-**GuilhermePavani/GuilhermePavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div  align="center" >
+  - Cursando Gestão da Tecnologia da Informação - FATEC
+  <br>
+  - Estudando: Python, HTML, Javascript, CSS, MySQL
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">STATUS</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePavani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      
+  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
+  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />           
+</div>
+
+##
+ 
+<div>  
+  <a href = "mailto:guipavani429@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "www.linkedin.com/in/guilherme-pavan1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
